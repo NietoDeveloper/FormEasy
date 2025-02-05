@@ -1,12 +1,4 @@
-**User Profile Form**
 
-
-This project was a blend of Graphic Design, Web Design and Web Development.
-
-![image](https://github.com/user-attachments/assets/7b394a47-7d24-41d5-9ec7-49a97f39cd4a)
-
-Using Figma, the basic layout was created. This gave me an insight of the UI. 
-This UI was implemented as code using React.js with the Vite tool-kit.
 
 **Overview**:
 
