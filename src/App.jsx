@@ -23,9 +23,9 @@ function App() {
       <div className="container">
         <div className="left" id="showcase">
           <div>
-            <h1>Showcase </h1>
-            <h1>your details</h1>
-            <h1>with clarity</h1>
+            <h1>Nieto Developer </h1>
+            <h1>Form</h1>
+            <h1>Very Complete</h1>
           </div>
         </div>
         <div className="right">
