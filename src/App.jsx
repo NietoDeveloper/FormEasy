@@ -30,7 +30,7 @@ function App() {
         </div>
         <div className="right">
           <div className="logo icon-top-right">
-            <img src="src/assets/logo-favicon.jpg" alt="Logo" />
+            <img src="src/assets/LogoNieto2024.png" alt="Logo" />
           </div>
           <Routes>
             <Route
