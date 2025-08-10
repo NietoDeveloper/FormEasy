@@ -9,3 +9,50 @@ Users also have the option to upload a profile image. The application displays t
 1. Input fields to present Username, Mail ID, Department, Project Links, and Description data.
 2. Option to upload a profile image.
 3. User profile information displayed on a personal profile page
+
+Message Form App
+Overview
+Message Form App is a frontend application with a Node.js backend, designed for sending and managing messages. Built by Manuel Nieto, Software Developer, in 2024.
+Technologies
+
+Node.js: Backend server environment
+React: Frontend library for dynamic UI
+Vite: Fast frontend build tool
+
+Features
+
+User-friendly message submission form
+Responsive design for all devices
+Node.js backend for message processing
+Clean and modern interface
+
+Installation
+
+Clone the repository:git clone <repository-url>
+
+
+Navigate to the project directory:cd message-form-app
+
+
+Install dependencies:npm install
+
+
+Start the backend server:npm run server
+
+
+Start the frontend development server:npm run dev
+
+
+
+Usage
+
+Access the app at http://localhost:5173
+Use the form to submit messages
+Backend handles message processing
+
+Contributing
+Contributions are welcome! Fork the repository and submit a pull request.
+License
+MIT License
+Contact
+## Created by Manuel Nieto, Software Developer. Reach out via GitHub.
