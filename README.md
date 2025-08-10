@@ -23,7 +23,7 @@ Responsive design for all devices
 Node.js backend for message processing
 Clean and modern interface
 
-Clone the repository:git clone <repository-url>
+Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
 
 
 Navigate to the project directory:cd message-form-app
