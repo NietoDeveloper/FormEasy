@@ -21,8 +21,6 @@ function Profile({ formData }) {
       <p>
         <b>Email ID: </b> {formData.email}
       </p>
-
-      {/* Department name */}
       <p>
         <b>Department: </b> {formData.department}
       </p>
