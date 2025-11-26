@@ -78,7 +78,6 @@ function Form({ formData, setFormData }) {
         required
       />
 
-      {/* Description - text area */}
       <textarea
         placeholder="Description"
         name="description"
