@@ -47,4 +47,4 @@ License
 MIT License
 Contact
 
-## Created by Manuel Nieto, Software Developer. Reach out via GitHub.
+## Created by Manuel Nieto, Software Developer
