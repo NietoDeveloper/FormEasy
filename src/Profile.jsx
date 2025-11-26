@@ -18,8 +18,6 @@ function Profile({ formData }) {
         <b>Username: </b>
         {user}
       </p>
-
-      {/* Email ID */}
       <p>
         <b>Email ID: </b> {formData.email}
       </p>
