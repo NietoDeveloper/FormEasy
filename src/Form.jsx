@@ -69,7 +69,6 @@ function Form({ formData, setFormData }) {
         required
       />
 
-      {/* Input field for project links */}
       <input
         type="url"
         placeholder="Project Link"
