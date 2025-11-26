@@ -31,7 +31,6 @@ function Form({ formData, setFormData }) {
       {/* Title */}
       <h2>User Profile</h2>
 
-      {/* First name and Last name for username input */}
       <div className="namecombo">
         <input
           className="firstname"
