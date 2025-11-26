@@ -87,7 +87,6 @@ function Form({ formData, setFormData }) {
         required
       ></textarea>
 
-      {/* Profile image - upload */}
       <input
         type="file"
         className="choose-file-button"
