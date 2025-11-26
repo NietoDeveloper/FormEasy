@@ -102,8 +102,6 @@ function Form({ formData, setFormData }) {
   );
 }
 
-// PropTypes library used to validate prop types that are passed in the component --> in this case it is the "Form" component.
-// Here, this is enforcing type-checking rules to catch errors.
 Form.propTypes = {
   formData: PropTypes.shape({
     firstName: PropTypes.string.isRequired,
