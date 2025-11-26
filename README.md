@@ -9,7 +9,7 @@ Vite: Fast frontend build tool
 
 **Overview**:
 
-This web application allows users to create a personal profile page by inputting their Username, Mail ID, Department, Project Links, and Description. 
+This web application allows users to create a personal profile page by inputting their Username, Mail ID, Department, Project Links, and Description.
 Users also have the option to upload a profile image. The application displays the user profile information on a personal profile page.
 
 **Features**:
@@ -25,19 +25,15 @@ Clean and modern interface
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
 
-
 Navigate to the project directory:cd message-form-app
-
 
 Install dependencies:npm install
 
-
 Start the backend server:npm run server
-
 
 Start the frontend development server:npm run dev
 
-Access the app at http://localhost:5173
+Access the app at <http://localhost:5173>
 Use the form to submit messages
 Backend handles message processing
 
