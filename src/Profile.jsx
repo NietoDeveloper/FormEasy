@@ -6,9 +6,7 @@ import "./Profile.css";
 function Profile({ formData }) {
   let user = formData.firstName + " " + formData.lastName;
   return (
-    // The Profile Page that gets redirected once all the inputs are submitted in the form page.
     <div className="profile">
-      {/* The Profile Image */}
       {formData.profileImage && (
         <img
           src={formData.profileImage}
