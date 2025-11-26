@@ -19,7 +19,6 @@ function Form({ formData, setFormData }) {
     });
   };
 
-  // Function to handle submit action
   const handleSubmit = (e) => {
     e.preventDefault();
     navigate("/profile");
