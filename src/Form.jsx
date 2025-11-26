@@ -12,7 +12,6 @@ function Form({ formData, setFormData }) {
     setFormData({ ...formData, [name]: value });
   };
 
-  // Function to handle image upload
   const handleImageUpload = (e) => {
     setFormData({
       ...formData,
