@@ -4,7 +4,6 @@ import { useNavigate } from "react-router-dom";
 import "./App.css";
 
 function Form({ formData, setFormData }) {
-  // useNavigate React hook to navigate to different routes based on user interactions or other events.
   const navigate = useNavigate();
 
   // Function to handle form inputs
