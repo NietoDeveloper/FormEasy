@@ -35,8 +35,6 @@ function Profile({ formData }) {
           {formData.projectLink}
         </a>
       </p>
-
-      {/* Description of the profile */}
       <p>
         <b>Description: </b> {formData.description}
       </p>
