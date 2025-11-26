@@ -95,7 +95,6 @@ function Form({ formData, setFormData }) {
         required
       />
 
-      {/* Submit button */}
       <button className="submit" type="submit">
         SUBMIT
       </button>
