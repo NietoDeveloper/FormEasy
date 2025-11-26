@@ -27,7 +27,6 @@ function Form({ formData, setFormData }) {
   };
 
   return (
-    /* Form */
     <form onSubmit={handleSubmit}>
       {/* Title */}
       <h2>User Profile</h2>
