@@ -51,7 +51,6 @@ function Form({ formData, setFormData }) {
         />
       </div>
 
-      {/* Email ID input */}
       <input
         type="email"
         placeholder="Email"
