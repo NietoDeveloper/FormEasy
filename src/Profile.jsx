@@ -14,8 +14,6 @@ function Profile({ formData }) {
           style={{ width: "270px", height: "260px" }}
         />
       )}
-
-      {/* Username */}
       <p>
         <b>Username: </b>
         {user}
