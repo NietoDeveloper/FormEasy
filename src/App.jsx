@@ -17,8 +17,6 @@ function App() {
   });
 
   return (
-    // React router - used to route to specific pages. In this case it is to redirect from Forms page to the Profile page once
-    // data is submitted in the form.
     <Router>
       <div className="container">
         <div className="left" id="showcase">
