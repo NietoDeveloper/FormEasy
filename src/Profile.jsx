@@ -24,7 +24,6 @@ function Profile({ formData }) {
       <p>
         <b>Department: </b> {formData.department}
       </p>
-
       <p>
         <b>Project Link: </b>{" "}
         <a
