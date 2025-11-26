@@ -5,7 +5,6 @@ import Profile from "./Profile";
 import "./App.css";
 
 function App() {
-  // useState React hook used to manage the form state, the initial states are initiated as an empty string.
   const [formData, setFormData] = useState({
     firstName: "",
     lastName: "",
