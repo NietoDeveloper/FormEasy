@@ -41,8 +41,6 @@ function Profile({ formData }) {
     </div>
   );
 }
-
-// PropTypes library used to enforce type-checking rules.
 Profile.propTypes = {
   formData: PropTypes.shape({
     firstName: PropTypes.string.isRequired,
