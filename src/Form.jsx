@@ -60,7 +60,6 @@ function Form({ formData, setFormData }) {
         required
       />
 
-      {/* Department name input */}
       <input
         type="text"
         placeholder="Department"
