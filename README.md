@@ -7,5 +7,3 @@ Message Form App is a frontend application with a Node.js backend, designed for 
 **Overview**:
 
 **Features**:
-
-Clone the repository:git clone <https://github.com/NietoDeveloper/
