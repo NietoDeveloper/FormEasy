@@ -12,8 +12,7 @@ Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
 
 Navi
 t the backend server:npm run server
-
-Start the frontend development server:npm run dev
+d development server:npm run dev
 
 Access the app at <http://localhost:5173>
 sage processing
