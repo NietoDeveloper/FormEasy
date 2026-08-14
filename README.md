@@ -15,7 +15,7 @@ Users also have the option to upload a profile image. The application displays t
 **Features**:
 
 1. Input fields to present Username, Mail ID, Department, Project Links, and Description data.
-2. Option to upload a profile image.
+
 3. User profile information displayed on a personal profile page
 
 User-friendly message submission form
