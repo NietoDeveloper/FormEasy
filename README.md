@@ -8,11 +8,8 @@ Message Form App is a frontend application with a Node.js backend, designed for 
 
 **Features**:
 
-Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
-
-Navi
-t the backend server:npm run server
-d development server:npm run dev
+Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasrver:npm run server
+d development 
 
 Access the app at <http://localhost:5173>
 sage processing
