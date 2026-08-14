@@ -5,7 +5,7 @@ Technologies
 
 Node.js: Backend server environment
 React: Frontend library for dynamic UI
-Vite: Fast frontend build tool
+
 
 **Overview**:
 
