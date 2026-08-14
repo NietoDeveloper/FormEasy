@@ -16,7 +16,3 @@ Contributing
 
 Contact
 
-
-## NietoDeveloper
-
-### 2023
