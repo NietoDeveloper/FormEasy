@@ -6,8 +6,6 @@ Message Form App is a frontend application with a Node.js backend, designed for 
 
 **Overview**:
 
-This web application allows users to create a personal profile page g Mail ID
-
 **Features**:
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
