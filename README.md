@@ -14,7 +14,7 @@ Access the app at <http://localhost:5173>
 sage processing
 
 Contributing
-Contributions are welcome! Fork the repository and submit a pull request.
+
 License
 MIT License
 Contact
