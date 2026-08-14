@@ -16,8 +16,7 @@ t the backend server:npm run server
 Start the frontend development server:npm run dev
 
 Access the app at <http://localhost:5173>
-Use the form to submit messages
-Backend handles message processing
+sage processing
 
 Contributing
 Contributions are welcome! Fork the repository and submit a pull request.
