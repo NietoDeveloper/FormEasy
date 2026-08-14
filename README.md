@@ -12,7 +12,7 @@ This web application allows users to create a personal profile page g Mail ID
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
 
-Navigate to the project dir
+Navi
 t the backend server:npm run server
 
 Start the frontend development server:npm run dev
