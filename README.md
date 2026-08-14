@@ -6,8 +6,6 @@
 
 <br/>
 
-
-
 <p align="center">
   <a href="https://github.com/NietoDeveloper">
     <img src="https://img.shields.io/badge/Engineer-Manuel%20Nieto-blue?style=for-the-badge&logo=github"/>
@@ -29,8 +27,6 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/NietoDeveloper/FormEasy">
     <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FFormEasy-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
@@ -46,8 +42,6 @@
 **Form Easy App** is a frontend application with a Node.js backend, designed for sending and managing messages. Built by **Manuel Nieto**, Software Developer, in 2024. It also allows users to create a personal profile page by inputting their Username, Mail ID, Department, Project Links, and Description — with the option to upload a profile image, displayed on a personal profile page. Built as a simple, reusable form example for future projects.
 
 ---
-
-
 
 ## 🗂️ Project Structure
 
@@ -79,8 +73,6 @@ flowchart LR
 
 ---
 
-
-
 ## ✨ Features
 
 - **Profile Fields:** Input fields for Username, Mail ID, Department, Project Links, and Description.
@@ -93,14 +85,12 @@ flowchart LR
 
 ---
 
-
-
 ## 🛠️ Technologies
 
 <div align="center">
 
 | Technology | Role |
-|:-----------|:-----|
+| :----------- | :----- |
 | **Node.js** | Backend server environment |
 | **React** | Frontend library for dynamic UI |
 | **Vite** | Fast frontend build tool |
@@ -122,8 +112,6 @@ git clone https://github.com/NietoDeveloper/FormEasy
 ```bash
 cd message-form-app
 ```
-
-
 
 **Step 3 — Install dependencies**
 
@@ -168,8 +156,6 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 
 Created by **Manuel Nieto (NietoDeveloper)**.
-
-
 
 <div align="center">
 
