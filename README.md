@@ -16,7 +16,6 @@ Contributing
 
 Contact
 
-## Created by Manuel Nieto
 
 ## NietoDeveloper
 
