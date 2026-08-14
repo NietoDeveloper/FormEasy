@@ -12,7 +12,7 @@ This web application allows users to create a personal profile page by inputting
 
 **Features**:
 
-1. Input fields to present Username, Mail ID, Department, Project Links, and Description data.
+1. Input fields to present Username, Mail ID, Department, Project 
 
 3. User profile information displayed on a personal profile page
 
