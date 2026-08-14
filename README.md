@@ -8,7 +8,7 @@ Node.js: Backend server environment
 
 **Overview**:
 
-This web application allows users to create a personal profile page by inputting their Username, Mail ID, Department, Project Links, and 
+This web application allows users to create a personal profile page g their Username, Mail ID, Department, Project Links, and 
 
 **Features**:
 
