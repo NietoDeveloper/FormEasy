@@ -12,7 +12,7 @@ This web application allows users to create a personal profile page g their User
 
 **Features**:
 
-1. Input fields to present Username, Mail ID, Department, Project 
+ent Username, Mail ID, Department, Project 
 
 
 User-friendly message submission form
