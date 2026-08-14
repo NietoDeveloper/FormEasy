@@ -168,3 +168,13 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 
 Created by **Manuel Nieto (NietoDeveloper)**.
+
+
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
