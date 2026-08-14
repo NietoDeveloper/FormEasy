@@ -122,3 +122,49 @@ git clone https://github.com/NietoDeveloper/FormEasy
 ```bash
 cd message-form-app
 ```
+
+
+
+**Step 3 — Install dependencies**
+
+```bash
+npm install
+```
+
+**Step 4 — Start the backend server**
+
+```bash
+npm run server
+```
+
+**Step 5 — Start the frontend development server**
+
+```bash
+npm run dev
+```
+
+---
+
+## 📖 Usage
+
+- Access the app at `http://localhost:5173`.
+- Use the form to submit messages.
+- The backend handles message processing.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Fork the repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 📬 Contact
+
+Created by **Manuel Nieto (NietoDeveloper)**.
