@@ -14,8 +14,6 @@ Access the
 
 Contributing
 
-License
-MIT License
 Contact
 
 ## Created by Manuel Nieto
