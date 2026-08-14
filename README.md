@@ -12,9 +12,6 @@ This web application allows users to create a personal profile page g their User
 
 **Features**:
 
-ent Username, Mail ID, Department, Project 
-
-
 Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
 
 Navigate to the project directory:cd message-form-app
