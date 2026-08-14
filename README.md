@@ -14,7 +14,6 @@ This web application allows users to create a personal profile page g their User
 
 1. Input fields to present Username, Mail ID, Department, Project 
 
-3. User profile information displayed on a personal profile page
 
 User-friendly message submission form
 Responsive design for all devices
