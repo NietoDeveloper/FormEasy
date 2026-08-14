@@ -17,7 +17,7 @@ ent Username, Mail ID, Department, Project
 
 User-friendly message submission form
 Responsive design for all devices
-Node.js backend for message processing
+
 Clean and modern interface
 
 Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
