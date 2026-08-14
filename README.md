@@ -78,3 +78,17 @@ flowchart LR
 ```
 
 ---
+
+
+
+## ✨ Features
+
+- **Profile Fields:** Input fields for Username, Mail ID, Department, Project Links, and Description.
+- **Profile Image Upload:** Option to upload and display a profile image.
+- **Personal Profile Page:** Renders submitted user profile information.
+- **User-Friendly Message Submission Form:** Clean, intuitive form UX.
+- **Responsive Design:** Optimized for all devices.
+- **Node.js Backend:** Handles message processing.
+- **Clean, Modern Interface:** Minimal, reusable UI components.
+
+---
