@@ -9,7 +9,6 @@ Node.js: Backend server environment
 **Overview**:
 
 This web application allows users to create a personal profile page by inputting their Username, Mail ID, Department, Project Links, and Description.
-Users also have the option to upload a profile image. The application displays the user profile information on a personal profile page.
 
 **Features**:
 
