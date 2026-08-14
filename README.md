@@ -16,7 +16,7 @@ ent Username, Mail ID, Department, Project
 
 
 User-friendly message submission form
-Responsive design for all devices
+
 
 Clean and modern interface
 
