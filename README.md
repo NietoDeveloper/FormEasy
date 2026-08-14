@@ -92,3 +92,33 @@ flowchart LR
 - **Clean, Modern Interface:** Minimal, reusable UI components.
 
 ---
+
+
+
+## 🛠️ Technologies
+
+<div align="center">
+
+| Technology | Role |
+|:-----------|:-----|
+| **Node.js** | Backend server environment |
+| **React** | Frontend library for dynamic UI |
+| **Vite** | Fast frontend build tool |
+
+</div>
+
+---
+
+## 🚀 Installation
+
+**Step 1 — Clone the repository**
+
+```bash
+git clone https://github.com/NietoDeveloper/FormEasy
+```
+
+**Step 2 — Navigate to the project directory**
+
+```bash
+cd message-form-app
+```
