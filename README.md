@@ -13,9 +13,7 @@ This web application allows users to create a personal profile page g their User
 **Features**:
 
 ent Username, Mail ID, Department, Project 
-
-
-User-friendly message submission form
+essage submission form
 
 
 Clean and modern interface
