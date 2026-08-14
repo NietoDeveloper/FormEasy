@@ -5,5 +5,3 @@ Message Form App is a frontend application with a Node.js backend, designed for 
 
 
 **Overview**:
-
-**Features**:
