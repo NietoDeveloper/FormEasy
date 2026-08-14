@@ -46,3 +46,35 @@
 **Form Easy App** is a frontend application with a Node.js backend, designed for sending and managing messages. Built by **Manuel Nieto**, Software Developer, in 2024. It also allows users to create a personal profile page by inputting their Username, Mail ID, Department, Project Links, and Description — with the option to upload a profile image, displayed on a personal profile page. Built as a simple, reusable form example for future projects.
 
 ---
+
+
+
+## 🗂️ Project Structure
+
+```text
+FormEasy/
+├── public/
+└── src/
+    └── assets/
+```
+
+---
+
+## 🔄 Submission Flow
+
+```mermaid
+flowchart LR
+    A([👤 User]) -->|Fill Form| B[React Client]
+    B -->|Username / Mail / Department / Links / Description| C[Form State]
+    B -->|Upload| D[Profile Image]
+    C -->|Submit| E[Node.js Backend]
+    D --> E
+    E -->|Process| F([📬 Message / Profile Handled])
+    F -->|Render| G[Personal Profile Page]
+
+    style A fill:#FFD700,color:#000,stroke:#FFD700
+    style E fill:#0a0a0a,color:#FFD700,stroke:#FFD700
+    style G fill:#000,color:#FFD700,stroke:#FFD700
+```
+
+---
