@@ -6,7 +6,7 @@ Technologies
 
 **Overview**:
 
-This web application allows users to create a personal profile page g Mail ID, Department, Project Links, and 
+This web application allows users to create a personal profile page g Mail ID
 
 **Features**:
 
@@ -14,9 +14,7 @@ Clone the repository:git clone <https://github.com/NietoDeveloper/FormEasy>
 
 Navigate to the project directory:cd message-form-app
 
-Install dependencies:npm install
-
-Start the backend server:npm run server
+t the backend server:npm run server
 
 Start the frontend development server:npm run dev
 
