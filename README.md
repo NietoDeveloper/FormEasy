@@ -4,7 +4,6 @@ Message Form App is a frontend application with a Node.js backend, designed for 
 Technologies
 
 Node.js: Backend server environment
-React: Frontend library for dynamic UI
 
 
 **Overview**:
